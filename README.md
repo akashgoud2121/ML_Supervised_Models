@@ -27,11 +27,7 @@ This interactive Streamlit app allows you to visualize, train, and evaluate a wi
   - Regression line fitting
   - Confusion matrix, feature importance, ROC, sigmoid curves, etc.
 
-## 🖼️ Screenshots
 
-| Regression Prediction | Classification Boundary |
-|-----------------------|-------------------------|
-| ![Regression](screenshots/regression.png) | ![Classification](screenshots/classification.png) |
 
 ## 📦 Installation
 
@@ -40,3 +36,4 @@ This interactive Streamlit app allows you to visualize, train, and evaluate a wi
 ```bash
 git clone https://github.com/yourusername/ml-models-playground.git
 cd ml-models-playground
+streamlit run app.py
